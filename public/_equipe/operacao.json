@@ -1,0 +1,21 @@
+[
+    {
+    "operação":[
+       {
+          "nome":"Breno",
+          "cargo":"Operador Pleno",
+          "img": "../imagens/Equipe/Breno_Barelli_(Operacao).jpg"
+        },
+        {
+          "nome":"Icaro Castro",
+          "cargo":"Operador Pleno",
+          "img": "../imagens/Equipe/Icaro_Castro_(Operacao).jpg"
+        },
+        {
+          "nome":"Rafael Tomé",
+          "cargo":"Operador Pleno",
+          "img": "../imagens/Equipe/Rafael_Tome_(Operacao).jpg"
+        }
+      ]
+    }
+ ]

@@ -1,0 +1,36 @@
+[
+    {
+    "erp":[
+       {
+          "nome":"Eric",
+          "cargo":"Coordenador",
+          "img": "../imagens/Equipe/Eric_Castro_(ERP).jpg"
+        },
+        {
+            "nome":"Christian",
+            "cargo":"Analista de ERP (WIPRO)",
+            "img": "../imagens/Equipe/Christian_Pompeu_(ERP).jpg"
+          },
+          {
+            "nome":"Matheus",
+            "cargo":"Analista Júnior",
+            "img": "../imagens/Equipe/Matheus_Macedo_(ERP).jpg"
+          },
+          {
+            "nome":"Naerdson",
+            "cargo":"Técnico Júnior",
+            "img": "../imagens/Equipe/Naerdson_Barros_(ERP).jpg"
+          },
+          {
+            "nome":"Cláudio Júnior",
+            "cargo":"Analista Júnior",
+            "img": "../imagens/Equipe/Claudio_Junior_ERP.png"
+          },
+          {
+            "nome":"Lukas Lima",
+            "cargo":"Estagiário",
+            "img": "../imagens/Equipe/Lukas_Lima(ERP).jpg"
+          }
+        ]
+    }
+ ]

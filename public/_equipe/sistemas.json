@@ -1,0 +1,51 @@
+[
+    {
+       "sistemas":[
+         {
+            "nome":"Cleverton",
+            "cargo":"Coordenador",
+            "img": "../imagens/Equipe/Cleverton_Costa_(Sistemas).jpg"
+          },
+          {
+            "nome":"Elder Bruno",
+            "cargo":"Analista Pleno",
+            "img": "../imagens/Equipe/Elder_Bruno_(Sistemas).jpg"
+          },
+          {
+            "nome":"Hidalgo",
+            "cargo":"Analista Sênior",
+            "img": "../imagens/Equipe/Hidalgo_Junior_(Sistemas).jpg"
+          },
+          {
+            "nome":"Ikaro Lopes",
+            "cargo":"Analista Júnior",
+            "img": "../imagens/Equipe/Ikaro_lopes_(Sistemas).jpg"
+          },
+          {
+            "nome":"Amanda",
+            "cargo":"Analista Júnior",
+            "img": "../imagens/Equipe/amanda.png"
+          },
+          {
+            "nome":"Talles",
+            "cargo":"Analista Sênior",
+            "img": "../imagens/Equipe/Rocha_Ramalho_(Sistemas).jpg"
+          },
+          {
+            "nome":"Zé Carlos",
+            "cargo":"Analista Sênior",
+            "img": "../imagens/Equipe/Jose_Carlos_(Sistemas).jpg"
+          },
+          {
+            "nome":"João Luis",
+            "cargo":"Estagiário",
+            "img": "../imagens/Equipe/João_Luis_(Sistemas).jpg"
+          },
+          {
+            "nome":"João Alexandre",
+            "cargo":"Estagiário",
+            "img": "../imagens/Equipe/joao-alexandre.png"
+          }
+       ]
+    }
+ ]

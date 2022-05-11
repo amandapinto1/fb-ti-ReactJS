@@ -1,0 +1,31 @@
+[
+    {
+       "internet":[
+          {
+             "nome":"Hamilton",
+             "cargo":"Coordenador",
+             "img":"imagens/Equipe/Hamilton_Xavier_(Internet).jpg"
+          },
+          {
+             "nome":"Brunno Raphael",
+             "cargo":"Programador Júnior",
+             "img":"imagens/Equipe/Brunno_Raphael_(Internet).jpg"
+          },
+          {
+            "nome":"Estêvão",
+            "cargo":"Analista Júnior",
+            "img":"imagens/Equipe/Estevao_Benevides_(Internet).jpg"
+         },
+         {
+            "nome":"Leonel",
+            "cargo":"Analista Sênior",
+            "img":"imagens/Equipe/Leonel_Camurça_(Internet).jpg"
+         },
+         {
+            "nome":"Washington",
+            "cargo":"Programador Júnior",
+            "img":"imagens/Equipe/Washington_Silva_(Internet).jpg"
+         }
+       ]
+    }
+ ]

@@ -1,0 +1,16 @@
+[
+    {
+    "atendimento":[
+       {
+          "nome":"Érika",
+          "cargo":"Técnica de Helpdesk Pleno",
+          "img": "../imagens/Equipe/Erika_Lima_(Atendimento).jpg"
+        },
+        {
+            "nome":"Jamile",
+            "cargo":"Técnica de Helpdesk Júnior",
+            "img": "../imagens/Equipe/Jamile_Kézia_(Atendimento).jpg"
+          }
+        ]
+    }
+ ]

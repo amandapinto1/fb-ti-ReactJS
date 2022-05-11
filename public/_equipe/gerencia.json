@@ -1,0 +1,16 @@
+[
+    {
+    "gerência":[
+       {
+          "nome":"Aníbal",
+          "cargo":"Gerente",
+          "img": "../imagens/Equipe/Anibal_Maia_(Gerencia).jpg"
+        },
+        {
+            "nome":"Asley",
+            "cargo":"Gerente",
+            "img": "../imagens/Equipe/Asley_Batista_(Gerencia).jpg" 
+          }
+        ]
+    }
+ ]

@@ -1,0 +1,66 @@
+[
+    {
+    "suporte":[
+        {
+            "nome":"Wendel",
+            "cargo":"Coordenador",
+            "img": "../imagens/Equipe/Wendell_Sousa_(Suporte).jpg"
+          },
+          {
+            "nome":"Aluizio",
+            "cargo":"Técnico de TI",
+            "img": "../imagens/Equipe/Aluizio_Junior_(Suporte).jpg"
+          },
+          {
+            "nome":"Jameson",
+            "cargo":"Analista Júnior",
+            "img": "../imagens/Equipe/Jameson_Furtado_(Suporte).jpg"
+          },
+          {
+            "nome":"Silmara",
+            "cargo":"Técnica Júnior",
+            "img": "../imagens/Equipe/Silmara_Marques_(Suporte).jpg"
+          },
+          {
+            "nome":"Eduardo",
+            "cargo":"Técnico Pleno",
+            "img": "../imagens/Equipe/Eduardo.jpg"
+          },
+          {
+            "nome":"Samuel Bastos",
+            "cargo":"Técnico de Suporte",
+            "img": "../imagens/Equipe/samuel-bastos.jpg"
+          },
+          {
+            "nome":"Jonathan",
+            "cargo":"Técnico de Suporte",
+            "img": "../imagens/Equipe/jonathan-jefferson.jpg"
+          },
+          {
+            "nome":"Lucas Soares",
+            "cargo":"Técnico de Suporte",
+            "img": "../imagens/Equipe/lucas-suporte.png"
+          },
+          {
+            "nome":"Valdenir Dias",
+            "cargo":"Técnico de Suporte",
+            "img": "../imagens/Equipe/valdenir.png"
+          },
+          {
+            "nome":"Weverson",
+            "cargo":"Técnico de Redes",
+            "img": "../imagens/Equipe/Weverson_Matos_(Suporte).jpg"
+          },
+          {
+            "nome":"Érika",
+            "cargo":"Técnica de Helpdesk Pleno",
+            "img": "../imagens/Equipe/Erika_Lima_(Atendimento).jpg"
+          },
+          {
+            "nome":"Jamile",
+            "cargo":"Técnica de Helpdesk Júnior",
+            "img": "../imagens/Equipe/Jamile_Kézia_(Atendimento).jpg"
+          }
+        ]
+    }
+ ]
